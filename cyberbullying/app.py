@@ -32,7 +32,10 @@ stopword = stopwords.words('english')
 # Transformers library for BERT
 # from transformers import BertModel
 
-
+api_key = " "
+api_secret_key = " "
+access_token = ""
+access_token_secret = ""
 
 # Tweepy authentication
 # with open('C:/Users/user/Desktop/javascript/project/aggressive-tweet-analyzer-main/web_app/text_preprocessing.py') as data_file:
