@@ -33,10 +33,7 @@ stopword = stopwords.words('english')
 # from transformers import BertModel
 
 
-api_key = "zZafvJzRpee6Kl2ZQcfUjPBxg"
-api_secret_key = "saHJbaIoR7CWXvYGP4sAuJgKSIanaUqhGh2OVEECDktyKkYF8k"
-access_token = "1502212195895152641-XdNr0lrPcnT7YPGpQQ21IwlUdypVAP"
-access_token_secret = "Fr8LNePuszvrkgWTiwQxVpxI0e7dSyYPyRU0yLx6evjdr"
+
 # Tweepy authentication
 # with open('C:/Users/user/Desktop/javascript/project/aggressive-tweet-analyzer-main/web_app/text_preprocessing.py') as data_file:
 # credentials = json.load(data_file , strict=False)
